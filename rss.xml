@@ -4,8 +4,15 @@
         <description><![CDATA[artofyoshi]]></description>
         <link>https://thegrid.ai/artofyoshi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 02:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 02:55:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artofyoshi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Interface Test</p>]]></description>
+            <link>https://thegrid.ai/artofyoshi/interface-test/index.html</link>
+            <guid isPermaLink="false">bb98865b-1f52-49bf-af26-a0ff75b86a4b</guid>
+            <pubDate>Mon, 15 Aug 2016 02:55:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f5f4e4-7315-4507-b22c-2004e5def713.png">]]></description>
